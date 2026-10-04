@@ -75,4 +75,4 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
   </a>
 </p>
 
-<p align="center"><sub>Currently building a new ESP32 project for the National Robotics Championship (Nov 2026) &nbsp;·&nbsp; More on <a href="https://abivan-dev.vercel.app/">my portfolio</a></sub></p>
+<p align="center"><sub>Based in Chennai, India &nbsp;·&nbsp; Currently building a new ESP32 project for the National Robotics Championship (Nov 2026) &nbsp;·&nbsp; More on <a href="https://abivan-dev.vercel.app/">my portfolio</a></sub></p>
