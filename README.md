@@ -10,8 +10,6 @@
   <a href="https://github.com/abivan100-stack?tab=repositories"><img src="https://img.shields.io/badge/GitHub-abivan100--stack-6E7681?style=flat&logo=github&logoColor=white&labelColor=30363D" alt="GitHub"/></a>
   &nbsp;
   <a href="mailto:abivan100@gmail.com"><img src="https://img.shields.io/badge/Gmail-abivan100%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=30363D" alt="Email abivan100@gmail.com"/></a>
-  &nbsp;
-  <a href="https://www.google.com/maps/place/Chennai"><img src="https://img.shields.io/badge/Based_in-Chennai,_India-2EA043?style=flat&logo=googlemaps&logoColor=white&labelColor=30363D" alt="Based in Chennai, India"/></a>
 </p>
 
 <p align="center">
