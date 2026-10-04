@@ -9,6 +9,8 @@
   &nbsp;
   <a href="https://github.com/abivan100-stack?tab=repositories"><img src="https://img.shields.io/badge/GitHub-abivan100--stack-6E7681?style=flat&logo=github&logoColor=white&labelColor=30363D" alt="GitHub"/></a>
   &nbsp;
+  <a href="mailto:abivan100@gmail.com"><img src="https://img.shields.io/badge/Gmail-abivan100%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=30363D" alt="Email abivan100@gmail.com"/></a>
+  &nbsp;
   <a href="https://www.google.com/maps/place/Chennai"><img src="https://img.shields.io/badge/Based_in-Chennai,_India-2EA043?style=flat&logo=googlemaps&logoColor=white&labelColor=30363D" alt="Based in Chennai, India"/></a>
 </p>
 
@@ -19,19 +21,23 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 </p>
 
 <p align="center">
-  <a href="https://abivan-dev.vercel.app/">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,go,html,css&theme=light">
-      <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,go,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, Go, HTML, CSS"/>
-    </picture>
-  </a>
-  <br/>
-  <a href="https://abivan-dev.vercel.app/">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,mongodb,arduino,git,vercel&theme=light">
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,mongodb,arduino,git,vercel&theme=dark" alt="React, Vite, Tailwind, FastAPI, MongoDB, Arduino, Git, Vercel"/>
-    </picture>
-  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript"/></picture></a>
+  &nbsp;<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript"/></picture></a>
+  &nbsp;<a href="https://www.python.org/" title="Python"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python"/></picture></a>
+  &nbsp;<a href="https://isocpp.org/" title="C++"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++"/></picture></a>
+  &nbsp;<a href="https://go.dev/" title="Go"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go" title="Go"/></picture></a>
+  &nbsp;<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML"/></picture></a>
+  &nbsp;<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS"/></picture></a>
+  <br/><br/>
+  <a href="https://react.dev/" title="React"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React"/></picture></a>
+  &nbsp;<a href="https://vite.dev/" title="Vite"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vite&theme=light"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" title="Vite"/></picture></a>
+  &nbsp;<a href="https://tailwindcss.com/" title="Tailwind CSS"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/></picture></a>
+  &nbsp;<a href="https://fastapi.tiangolo.com/" title="FastAPI"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/></picture></a>
+  &nbsp;<a href="https://www.mongodb.com/" title="MongoDB"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/></picture></a>
+  &nbsp;<a href="https://www.arduino.cc/" title="Arduino"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino" title="Arduino"/></picture></a>
+  &nbsp;<a href="https://git-scm.com/" title="Git"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git"/></picture></a>
+  &nbsp;<a href="https://vercel.com/" title="Vercel"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" title="Vercel"/></picture></a>
+  &nbsp;<a href="https://docs.claude.com/en/docs/claude-code/overview" title="Claude Code"><picture><source media="(prefers-color-scheme: light)" srcset="img/claude-code-light.svg"><img src="img/claude-code-dark.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/></picture></a>
 </p>
 
 <h3 align="center">Highlights</h3>
