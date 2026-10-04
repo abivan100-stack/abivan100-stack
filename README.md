@@ -44,7 +44,7 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
   <a href="https://abivan-dev.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="img/highlights-dark.svg">
-      <img src="img/highlights-light.svg" alt="Highlights: Expo Winner (FreshSense, Feb 2026); NRC Selection (C.R.A.S.H, Jul 2026); National Round (Robotics for Good, Sep 2026); PEC Hacks Prize (Vault, PEC Hacks 4.0)" width="100%"/>
+      <img src="img/highlights-light.svg" alt="Highlights: Expo Winner (FreshSense, Feb 2026); NRC Selection (C.R.A.S.H, Jul 2026); National Round (Robotics for Good, Sep 2026); Consolation Prize (Vault, 29-30 Aug 2026)" width="100%"/>
     </picture>
   </a>
 </p>
