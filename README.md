@@ -61,6 +61,7 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 | [**Vault**](https://abivan-dev.vercel.app/) | Cold-chain logger that seals readings in a hash-chained ledger | React, TypeScript, ESP32 |
 | [**VOLT**](https://abivan-dev.vercel.app/) | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
 | [**kvdb**](https://github.com/abivan100-stack/kvdb) | Key-value database written from scratch | Go |
+| [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d) | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
 | [**Stub**](https://github.com/abivan100-stack/stub) | Offline file sharing between two devices on the same Wi-Fi or hotspot, no server | TypeScript, WebRTC, Capacitor |
 
 </div>
