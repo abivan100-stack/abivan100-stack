@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-I'm a student builder who likes turning ideas into things you can actually hold, wire up or click.
+I'm a 14-year-old student builder who likes turning ideas into things you can actually hold, wire up or click.
 Most of my projects start with a real problem, like risky road junctions or spoiled food,
 and end up at a competition table. Right now that means robots, ESP32 sensors and full-stack web apps.
 </p>
@@ -58,8 +58,8 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 | [**C.R.A.S.H**](https://github.com/abivan100-stack/C.R.A.S.H) | Maps road accidents in Chennai and ranks which junctions to fix first | FastAPI, MongoDB, Leaflet |
 | [**Robotics for Good**](https://abivan-dev.vercel.app/) | Autonomous LEGO SPIKE robot for public-health emergencies | LEGO SPIKE Prime |
 | [**FreshSense**](https://abivan-dev.vercel.app/) | ESP32 conveyor that sniffs out spoiled food with gas sensors | ESP32, gas sensors, Blynk |
-| [**Vault**](https://abivan-dev.vercel.app/) | Cold-chain logger that seals readings in a hash-chained ledger | React, TypeScript, ESP32 |
-| [**VOLT**](https://abivan-dev.vercel.app/) | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
+| [**Vault**](https://github.com/abivan100-stack/vault) | Cold-chain logger that seals readings in a hash-chained ledger | React, TypeScript, ESP32 |
+| [**VOLT**](https://github.com/abivan100-stack/volt-ledger) | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
 | [**kvdb**](https://github.com/abivan100-stack/kvdb) | Key-value database written from scratch | Go |
 | [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d) | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
 | [**Stub**](https://github.com/abivan100-stack/stub) | Offline file sharing between two devices on the same Wi-Fi or hotspot, no server | TypeScript, WebRTC, Capacitor |
