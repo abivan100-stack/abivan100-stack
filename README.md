@@ -43,8 +43,8 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 <p align="center">
   <a href="https://abivan-dev.vercel.app/#project-C.R.A.S.H">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/highlights-dark-3.svg">
-      <img src="img/highlights-light-3.svg" alt="Highlights: Semifinalist (Robotics for Good, RFGYC nationals, Sep 2026); Consolation Prize (Vault, PEC Hacks 4.0, 29-30 Aug 2026); Vadiva: winner in three events and third in robo race (23-25 Oct 2026)" width="100%"/>
+      <source media="(prefers-color-scheme: dark)" srcset="img/highlights-dark-4.svg">
+      <img src="img/highlights-light-4.svg" alt="Highlights: Semifinalist (Robotics for Good, RFGYC nationals, Sep 2026); Consolation Prize (Vault, PEC Hacks 4.0, 29-30 Aug 2026); Vadiva (winner in robo soccer, robo retrieve and drone race, third place in robo race, 23-25 Oct 2026)" width="100%"/>
     </picture>
   </a>
 </p>
@@ -78,6 +78,7 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 </p>
 
 <p align="center"><sub>Based in Chennai, India &nbsp;·&nbsp; Currently building a new ESP32 project for the National Robotics Championship (Nov 2026) &nbsp;·&nbsp; More on <a href="https://abivan-dev.vercel.app/">my portfolio</a></sub></p>
+
 
 
 
