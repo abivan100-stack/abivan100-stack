@@ -62,7 +62,6 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 | [**Stub**](https://github.com/abivan100-stack/stub)<br/><sub><a href="https://stub-black.vercel.app">live demo</a></sub> | Offline file sharing between two devices on the same Wi-Fi or hotspot, no server | TypeScript, WebRTC, Capacitor |
 | [**kvdb**](https://github.com/abivan100-stack/kvdb) | Key-value database written from scratch | Go |
 | [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d)<br/><sub><a href="https://pitwatch-3d.vercel.app">live demo</a></sub> | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
-| [**Auto Anna**](https://github.com/abivan100-stack/chennai-game)<br/><sub><a href="https://chennai-game.vercel.app">live demo</a></sub> | Open-world auto rickshaw game set in Mylapore, Chennai (early prototype) | TypeScript, Three.js, Rapier |
 | [**VOLT**](https://github.com/abivan100-stack/volt-ledger)<br/><sub><a href="https://volt-ledger.vercel.app">live demo</a></sub> | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
 
 </div>
