@@ -23,7 +23,9 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
   &nbsp;<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript"/></picture></a>
   &nbsp;<a href="https://www.python.org/" title="Python"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python"/></picture></a>
   &nbsp;<a href="https://isocpp.org/" title="C++"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++"/></picture></a>
+  &nbsp;<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" title="C"/></picture></a>
   &nbsp;<a href="https://go.dev/" title="Go"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go" title="Go"/></picture></a>
+  &nbsp;<a href="https://www.rust-lang.org/" title="Rust"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Rust" title="Rust"/></picture></a>
   &nbsp;<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML"/></picture></a>
   &nbsp;<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS"/></picture></a>
   <br/><br/>
@@ -56,13 +58,13 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 | Project | What it does | Built with |
 |:--|:--|:--|
 | [**C.R.A.S.H**](https://github.com/abivan100-stack/C.R.A.S.H)<br/><sub><a href="https://crash-chennai.vercel.app">live demo</a></sub> | Maps road accidents in Chennai and ranks which junctions to fix first | FastAPI, MongoDB, Leaflet |
-| [**Robotics for Good**](https://abivan-dev.vercel.app/) | Autonomous LEGO SPIKE robot for public-health emergencies | LEGO SPIKE Prime |
 | [**FreshSense**](https://abivan-dev.vercel.app/) | ESP32 conveyor that sniffs out spoiled food with gas sensors | ESP32, gas sensors, Blynk |
+| [**Robotics for Good**](https://abivan-dev.vercel.app/) | Autonomous LEGO SPIKE robot for public-health emergencies | LEGO SPIKE Prime |
+| [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d)<br/><sub><a href="https://pitwatch-3d.vercel.app">live demo</a></sub> | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
 | [**Vault**](https://github.com/abivan100-stack/vault) | Cold-chain logger that seals readings in a hash-chained ledger | React, TypeScript, ESP32 |
 | [**Stub**](https://github.com/abivan100-stack/stub)<br/><sub><a href="https://stub-black.vercel.app">live demo</a></sub> | Offline file sharing between two devices on the same Wi-Fi or hotspot, no server | TypeScript, WebRTC, Capacitor |
-| [**kvdb**](https://github.com/abivan100-stack/kvdb) | Key-value database written from scratch | Go |
-| [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d)<br/><sub><a href="https://pitwatch-3d.vercel.app">live demo</a></sub> | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
 | [**VOLT**](https://github.com/abivan100-stack/volt-ledger)<br/><sub><a href="https://volt-ledger.vercel.app">live demo</a></sub> | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
+| [**kvdb**](https://github.com/abivan100-stack/kvdb) | Key-value database written from scratch | Go |
 
 </div>
 
