@@ -45,8 +45,8 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 <p align="center">
   <a href="https://abivan-dev.vercel.app/#project-C.R.A.S.H">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/highlights-dark-6.svg">
-      <img src="img/highlights-light-6.svg" alt="Highlights: Expo Winner (FreshSense, Feb 2026); Semifinalist (Robotics for Good, RFGYC nationals, Sep 2026); Consolation Prize (Vault, PEC Hacks 4.0, 29-30 Aug 2026); Vadiva, 23-25 Oct 2026: winner in robo soccer and robo retrieve, winner in drone race, third place in robo race" width="560"/>
+      <source media="(prefers-color-scheme: dark)" srcset="img/highlights-dark-7.svg">
+      <img src="img/highlights-light-7.svg" alt="Highlights: Expo Winner (FreshSense, Feb 2026); Semifinalist (Robotics for Good, RFGYC nationals, Sep 2026); NRC 2026 (qualified for the World Robotics Championship in 3 events, 2nd in drone soccer, 20-21 Nov 2026); Vadiva, 23-25 Oct 2026: winner in robo soccer and robo retrieve, winner in drone race, third place in robo race" width="560"/>
     </picture>
   </a>
 </p>
