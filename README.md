@@ -57,10 +57,10 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| [**C.R.A.S.H**](https://github.com/abivan100-stack/C.R.A.S.H)<br/><sub><a href="https://crash-chennai.vercel.app">live demo</a></sub> | Maps road accidents in Chennai and ranks which junctions to fix first | FastAPI, MongoDB, Leaflet |
-| [**FreshSense**](https://abivan-dev.vercel.app/) | ESP32 conveyor that sniffs out spoiled food with gas sensors | ESP32, gas sensors, Blynk |
 | [**Robotics for Good**](https://abivan-dev.vercel.app/) | Autonomous LEGO SPIKE robot for public-health emergencies | LEGO SPIKE Prime |
-| [**pitwatch**](https://github.com/abivan100-stack/pitwatch-3d)<br/><sub><a href="https://pitwatch-3d.vercel.app">live demo</a></sub> | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
+| [**C.R.A.S.H**](https://github.com/abivan100-stack/C.R.A.S.H)<br/><sub><a href="https://crash-chennai.vercel.app">live demo</a></sub> | Maps road accidents in Chennai and ranks which junctions to fix first | FastAPI, MongoDB, Leaflet |
+| [**PitWatch 3D**](https://github.com/abivan100-stack/pitwatch-3d)<br/><sub><a href="https://pitwatch-3d.vercel.app">live demo</a></sub> | 3D open-pit mine monitoring and regulatory compliance dashboard | React, Three.js, TypeScript |
+| [**FreshSense**](https://abivan-dev.vercel.app/) | ESP32 conveyor that sniffs out spoiled food with gas sensors | ESP32, gas sensors, Blynk |
 | [**Vault**](https://github.com/abivan100-stack/vault) | Cold-chain logger that seals readings in a hash-chained ledger | React, TypeScript, ESP32 |
 | [**Stub**](https://github.com/abivan100-stack/stub)<br/><sub><a href="https://stub-black.vercel.app">live demo</a></sub> | Offline file sharing between two devices on the same Wi-Fi or hotspot, no server | TypeScript, WebRTC, Capacitor |
 | [**VOLT**](https://github.com/abivan100-stack/volt-ledger)<br/><sub><a href="https://volt-ledger.vercel.app">live demo</a></sub> | Neighbourhood solar-credit trading simulator | React, TypeScript, Tailwind |
@@ -79,7 +79,7 @@ and end up at a competition table. Right now that means robots, ESP32 sensors an
   </a>
 </p>
 
-<p align="center"><sub>Based in Chennai, India &nbsp;·&nbsp; Currently building <a href="https://pitwatch-3d.vercel.app">PitWatch 3D</a>, a 3D open-pit mine compliance dashboard &nbsp;·&nbsp; More on <a href="https://abivan-dev.vercel.app/">my portfolio</a></sub></p>
+<p align="center"><sub>Based in Chennai, India &nbsp;·&nbsp; NRC 2026: qualified for the World Robotics Championship in 3 events, 2nd in drone soccer, and presented <a href="https://pitwatch-3d.vercel.app">PitWatch 3D</a> in the innovation contest &nbsp;·&nbsp; More on <a href="https://abivan-dev.vercel.app/">my portfolio</a></sub></p>
 
 
 
